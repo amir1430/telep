@@ -32,7 +32,7 @@ const Home: NextPage<HomeProps> = ({ mtprotos }: HomeProps) => {
             Telegram Proxy Explorer
           </h3>
           <h4 className="font-bold text-dark/60">
-            Choose your proxy and enjoy :)
+            Choose your proxy and enjoy
           </h4>
         </div>
       </div>
